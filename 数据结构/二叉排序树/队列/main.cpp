@@ -1,7 +1,11 @@
 #pragma once
 #include<iostream>
 #include "queue.h"
-
+#define max
+#ifdef max
+#pragma message("#undefing marco max")
+#undef max
+#endif // max
 int main() {
 	Queue Q;
 	Q = CreateQueue();
