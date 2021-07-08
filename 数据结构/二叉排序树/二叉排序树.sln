@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉排序树", "二叉排序树\二叉排序树.vcxproj", "{D4129FD1-8132-4F8F-A5CE-670F743088D0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "队列", "队列\队列.vcxproj", "{6AD4D34E-0602-4615-A131-9FAE2AA68F36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D4129FD1-8132-4F8F-A5CE-670F743088D0}.Release|x64.Build.0 = Release|x64
 		{D4129FD1-8132-4F8F-A5CE-670F743088D0}.Release|x86.ActiveCfg = Release|Win32
 		{D4129FD1-8132-4F8F-A5CE-670F743088D0}.Release|x86.Build.0 = Release|Win32
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Debug|x64.ActiveCfg = Debug|x64
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Debug|x64.Build.0 = Debug|x64
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Debug|x86.ActiveCfg = Debug|Win32
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Debug|x86.Build.0 = Debug|Win32
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Release|x64.ActiveCfg = Release|x64
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Release|x64.Build.0 = Release|x64
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Release|x86.ActiveCfg = Release|Win32
+		{6AD4D34E-0602-4615-A131-9FAE2AA68F36}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
