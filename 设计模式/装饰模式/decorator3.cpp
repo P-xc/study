@@ -119,17 +119,17 @@ public:
 
 
 
-				 void Process() {
+void Process() {
 
-					 //运行时装配
-					 FileStream* s1 = new FileStream();
+	//运行时装配
+	FileStream* s1 = new FileStream();
 
-					 CryptoStream* s2 = new CryptoStream(s1);
+	CryptoStream* s2 = new CryptoStream(s1);
 
-					 BufferedStream* s3 = new BufferedStream(s1);
+	BufferedStream* s3 = new BufferedStream(s1);
 
-					 BufferedStream* s4 = new BufferedStream(s2);
+	BufferedStream* s4 = new BufferedStream(s2);
 
 
 
-				 }
+}
