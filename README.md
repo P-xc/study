@@ -1,2 +1,2 @@
 # study
-> C PLUS PLUS
+> C PLUS PLUS.
